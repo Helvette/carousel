@@ -36,7 +36,9 @@ div.row.carousel-container.center-align {
 .carousel {
 	margin: 15px 0;
 	width: 100%;
-	height: 100%;
+	height: 335px;
+	border: 1px solid white;
+	box-shadow: 0 2px 20px black;
 }
 
 .carousel li img {
